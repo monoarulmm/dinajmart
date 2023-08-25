@@ -1,0 +1,11 @@
+.red {
+    @apply text-red-500;
+}
+
+.img_p{
+    @apply h-[500px] w-[300px]
+}
+
+@import "_variables/global.scss";
+
+
